@@ -1,4 +1,4 @@
-# 📊 Projet Big Data - Classification de Fruits sur AWS
+# 📊 Projet Big Data - Classification d'images de Fruits sur AWS
 
 **Projet 9 – Mastère Spécialisé Data Science – OpenClassrooms**  
 **Client : Fruits (start-up de l'Agritech)**  
